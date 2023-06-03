@@ -1,3 +1,3 @@
 #OWNER VEERO
-import VP
-VP.Subscraption()
+import vp
+vp.Subscraption()
